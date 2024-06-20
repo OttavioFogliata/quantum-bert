@@ -1,0 +1,7 @@
+pennylane==0.36.0
+torch==2.3.1
+transformers==4.28.0
+numpy==1.26.4
+scikit-learn
+datasets
+pennylane-qiskit
